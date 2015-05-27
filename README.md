@@ -3,9 +3,9 @@
 ## Passwords
 You can ask B Bot for passwords. **“password”** can be shortened to **“pw”**.
 
-“`what is the password for alta?`”
-“`what’s the alta twitter password?`”
-“`alta pw`”
+“`what is the password for alta?`”  
+“`what’s the alta twitter password?`”  
+“`alta pw`”  
 
 If a match cannot be made based on your phrase, It will automatically check through Company B’s passwords.
 
@@ -15,27 +15,27 @@ If a match cannot be made based on your phrase, It will automatically check thro
 ### Generate a Password
 You can ask B Bot to generate long, high-entropy xkcd-style passwords like **“anybody progress paint cross”**.
 
-“`generate a password`”
-“`make pw`”
+“`generate a password`”  
+“`make pw`”  
 
 ## Hours
 You can ask B Bot for a recap of everyone’s hours. By default B Bot will show the current week.
 
-“`show hours`”
-“`show hours for last week`”
-“`hours for last month`”
-“`hours this month`”
+“`show hours`”  
+“`show hours for last week`”  
+“`hours for last month`”  
+“`hours this month`”  
 
 ## Overdue Tasks
 You can ask B Bot for a report of overdue tasks. A PDF will be generated and sent to slack.
 
-“`show overdue tasks`”
+“`show overdue tasks`”  
 
 ## File Search
 You can have B Bot deliver relevant files to you based on a job number or search string.
 
-“`find files for job #2465`”
-“`find the whitney font`”
+“`find files for job #2465`”  
+“`find the whitney font`”  
 
 ## Pingdom
 You can have B Bot notify you when a site is down. Join channel `#uptime` or `#devops`
