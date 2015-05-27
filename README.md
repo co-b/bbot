@@ -9,8 +9,8 @@ You can ask B Bot for passwords. **“password”** can be shortened to **“pw�
 
 If a match cannot be made based on your phrase, It will automatically check through Company B’s passwords.
 
-“`what’s the instagram password?`”
-“`what’s the Company B instagram password?`”
+“`what’s the instagram password?`”  
+“`what’s the Company B instagram password?`”  
 
 ### Generate a Password
 You can ask B Bot to generate long, high-entropy xkcd-style passwords like **“anybody progress paint cross”**.
