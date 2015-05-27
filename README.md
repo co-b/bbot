@@ -37,7 +37,7 @@ You can have B Bot deliver relevant files to you based on a job number or search
 “`find files for job #2465`”  
 “`find the whitney font`”  
 
-## Pingdom
+## Uptime
 You can have B Bot notify you when a site is down. Join channel `#uptime` or `#devops`
 
 ## Server Stats
