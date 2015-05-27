@@ -11,6 +11,7 @@ If a match cannot be made based on your phrase, It will automatically check thro
 
 “`what’s the instagram password?`”  
 “`what’s the Company B instagram password?`”  
+“`instagram pw`”  
 
 ### Generate a Password
 You can ask B Bot to generate long, high-entropy xkcd-style passwords like **“anybody progress paint cross”**.
