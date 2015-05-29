@@ -34,11 +34,31 @@ You can ask B Bot for a report of overdue tasks. A PDF will be generated and sen
 
 “`show overdue tasks`”  
 
-## File Search
+## File Search (soon)
 You can have B Bot deliver relevant files to you based on a job number or search string.
 
 “`find files for job #2465`”  
 “`find the whitney font`”  
+
+## Music (soon)
+You can have B Bot control our music. Join `#music`
+
+### Play a track
+“`play Down And Dusky Blonde`”  
+“`play spotify:track:6tEVfwKyFdSt7FY7cv7Smp`”  
+
+### Turn the music down for a phone call
+“`call`, `softer`” 
+
+### Turn the music up
+“`done`, `louder`” 
+
+### Show stats
+“`stats`” 
+
+### Filter out by genre
+“`play 80s`” 
+
 
 ## Uptime
 You can have B Bot notify you when a site is down. Join channel `#uptime` or `#devops`
