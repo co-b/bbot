@@ -34,13 +34,13 @@ You can ask B Bot for a report of overdue tasks. A PDF will be generated and sen
 
 “`show overdue tasks`”  
 
-## File Search (soon)
+## File Search
 You can have B Bot deliver relevant files to you based on a job number or search string.
 
 “`find files for job #2465`”  
 “`find the whitney font`”  
 
-## Music (soon)
+## Music
 You can have B Bot control our music. Join `#music`
 
 ### Play a track
@@ -57,7 +57,7 @@ You can have B Bot control our music. Join `#music`
 “`stats`” 
 
 ### Filter out by genre
-“`play 80s`” 
+“`play some 80s`” 
 
 
 ## Uptime
